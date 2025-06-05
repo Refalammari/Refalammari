@@ -16,6 +16,7 @@ I enjoy working across **data science**, **machine learning**, and **full-stack 
 - Python, Flask, Firebase, SQL
 - NLP, neural networks, generative models
 - UX, dashboards, and data-driven products
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ---
 
