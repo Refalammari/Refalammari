@@ -13,7 +13,7 @@ I enjoy working across **data science**, **machine learning**, and **full-stack 
 ---
 
 ### 🧩 Skills & Interests
-[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,dart,flask,flutter,tensorflow,pytorch,sklearn,fastapi,php,r,firebase,mysql,postgres,graphql,postman,git,github,vscode,vercel,docker,figma,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,html,css,dart,flask,flutter,tensorflow,pytorch,sklearn,php,r,firebase,mysql,git,github,vscode,figma)](https://skillicons.dev)
 
 
 ---
