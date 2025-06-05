@@ -6,7 +6,7 @@ I enjoy working across **data science**, **machine learning**, and **full-stack 
 ---
 
 ### 🚧 Current Projects
-- **Rawae** – A collaborative Arabic storytelling platform powered by AI, enabling users to co-write stories, generate character images, and analyze narrative content through real-time contributions.
+- **Rawae** – A collaborative storytelling platform powered by AI, enabling users to co write stories, generate character images, and analyze narrative content through real time contributions.
 - **GlucoHero** – Health tech for chronic care management
 - Exploring: **NLP**, **deep learning**, and product strategy
 
